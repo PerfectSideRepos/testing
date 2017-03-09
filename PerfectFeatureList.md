@@ -1,7 +1,7 @@
 Feature|Further detail|Project|Docs|Examples
 -------|-----|--------------|-------|------------|----|--------|---
 **HTTP**|||||||
-HTTP1||[Perfect-HTTP](https://github.com/PerfectlySoft/Perfect-HTTP)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
+HTTP1||[Perfect-HTTP](https://github.com/PerfectlySoft/Perfect-HTTP)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
 HTTP2||[Perfect-HTTP](https://github.com/PerfectlySoft/Perfect-HTTP)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
 SSL/TLS||[Perfect-Net](https://github.com/PerfectlySoft/Perfect-Net)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)||
 Request Routing||[Perfect-HTTPServer](https://github.com/PerfectlySoft/Perfect-HTTPServer)|[:clipboard:](https://www.perfect.org/docs/routing.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
