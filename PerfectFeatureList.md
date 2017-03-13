@@ -19,3 +19,10 @@ FastCGI Connectors|[FastCGI](https://github.com/PerfectlySoft/Perfect-FastCGI)||
 gZip Content Compression|[Perfect-HTTPServer](https://github.com/PerfectlySoft/Perfect-HTTPServer)|||
 Multiple Server Instances on Different Ports from the same Executable|[Perfect-HTTPServer](https://github.com/PerfectlySoft/Perfect-HTTPServer)|<p align="center">[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Multiple-Server-Instances-Demo)|
 
+**Templating**
+
+Feature|Project|Docs|Examples
+----|-----|--------------|-------|------------|----|--------|---
+|
+Mustache|[Perfect-Mustache](https://github.com/PerfectlySoft/Perfect-Mustache)|<p align="center">[:clipboard:](https://www.perfect.org/docs/mustache.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Blog-Mustache)
+Markdown (via 3rd party libs)|
