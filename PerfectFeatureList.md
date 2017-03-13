@@ -3,7 +3,7 @@
 Feature|Project|Docs|Examples
 -------|-----|--------------|-------|------------|----|--------|---
 |
-HTTP1|[Perfect-HTTP](https://github.com/PerfectlySoft/Perfect-HTTP)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
+HTTP1|[Perfect-HTTP](https://github.com/PerfectlySoft/Perfect-HTTP)|<p align="center">[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)</p>|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
 HTTP2|[Perfect-HTTP](https://github.com/PerfectlySoft/Perfect-HTTP)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
 SSL/TLS|[Perfect-Net](https://github.com/PerfectlySoft/Perfect-Net)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)||
 Request Routing|[Perfect-HTTPServer](https://github.com/PerfectlySoft/Perfect-HTTPServer)|[:clipboard:](https://www.perfect.org/docs/routing.html)|[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplate)[:paperclip:](https://github.com/PerfectExamples/Perfect-Cookie-Demo)
@@ -18,3 +18,4 @@ WebRedirects Filters|[Perfect-WebRedirects](https://github.com/PerfectlySoft/Per
 FastCGI Connectors|[FastCGI](https://github.com/PerfectlySoft/Perfect-FastCGI)||[:paperclip:](https://github.com/PerfectlySoft/PerfectTemplateFCGI)|
 gZip Content Compression|[Perfect-HTTPServer](https://github.com/PerfectlySoft/Perfect-HTTPServer)|||
 Multiple Server Instances on Different Ports from the same Executable|[Perfect-HTTPServer](https://github.com/PerfectlySoft/Perfect-HTTPServer)|[:clipboard:](https://www.perfect.org/docs/HTTPServer.html)|[:paperclip:](https://github.com/PerfectExamples/Multiple-Server-Instances-Demo)|
+<p align="center"><b>[:clipboard:](https://www.perfect.org/docs/HTTPServer.html):</b><br></p>
