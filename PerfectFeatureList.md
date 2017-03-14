@@ -75,4 +75,97 @@ SMTP (mail handling)|[Perfect-SMTP](https://github.com/PerfectlySoft/Perfect-SMT
 Direct access to command-line functionality (SysProcess)|[Perfect](https://github.com/PerfectlySoft/Perfect)|<p align="center">[:clipboard:](https://www.perfect.org/docs/sysProcess.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-System)
 Threading (Cross-platform, independent threading library)|[Perfect-Thread](https://github.com/PerfectlySoft/Perfect-Thread)|<p align="center">[:clipboard:](https://www.perfect.org/docs/thread.html)</p>|
 
+**Analytics**
 
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+Google Analytics Measurement Protocol|[Perfect-GoogleAnalytics-MeasurementProtocol](https://github.com/PerfectlySoft/Perfect-GoogleAnalytics-MeasurementProtocol)
+Remote Logging Server|[Perfect-Logger](https://github.com/PerfectlySoft/Perfect-Logger)|<p align="center">[:clipboard:](https://www.perfect.org/docs/logRemote.html)</p>|
+
+**Authentication**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+HTTP Basic auth|
+Turnstile authentication drivers (MySQL, PostgreSQL, SQLite3, CouchDB, MongoDB)|[Perfect-Turnstile](https://github.com/PerfectlySoft/Perfect-Turnstile-SQLite)|<p align="center">[:clipboard:](http://www.perfect.org/docs/Turnstile.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-SQLite-Demo)[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-SQLite-Demo)[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-MongoDB-Demo)
+OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+Facebook OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+Salesforce OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+LinkedIn OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+Google OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+Slack OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+GitHub OAuth2|[Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication)|<p align="center">[:clipboard:](https://www.perfect.org/docs/OAuth2.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Authentication-Demo)
+Local authentication templates|
+SPNEGO (Kerberos)|[Perfect-SPNEGO](https://github.com/PerfectlySoft/Perfect-SPNEGO)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/PerfectDocs/blob/master/guide/SPNEGO.md)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Spnego-Demo)
+LDAP (with OpenLDAP)|[Perfect-LDAP](https://github.com/PerfectlySoft/Perfect-LDAP)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/PerfectDocs/blob/master/guide/LDAP.md)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-LDAP-Demo)
+Windows Active Directory (Through LDAP)|[Perfect-LDAP](https://github.com/PerfectlySoft/Perfect-LDAP)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/PerfectDocs/blob/master/guide/LDAP.md)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-LDAP-Demo)
+
+**Database Connectors**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+SQLite|[Perfect-SQLite](https://github.com/PerfectlySoft/Perfect-SQLite)|<p align="center">[:clipboard:](https://www.perfect.org/docs/SQLite.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Session-SQLite-Demo)
+MySQL|[Perfect-MySQL](https://github.com/PerfectlySoft/Perfect-MySQL)|<p align="center">[:clipboard:](https://www.perfect.org/docs/MySQL.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-MySQL-Demo)
+MariaDB|[Perfect-MariaDB](https://github.com/PerfectlySoft/Perfect-MariaDB)|<p align="center">[:clipboard:](https://www.perfect.org/docs/MariaDB.html)</p>|
+PostgreSQL|[Perfect-PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL)|<p align="center">[:clipboard:](https://www.perfect.org/docs/PostgreSQL.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Session-PostgreSQL-Demo)
+FileMaker|[Perfect-FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker)|<p align="center">[:clipboard:](https://www.perfect.org/docs/filemaker.html)</p>|
+MongoDB|[Perfect-MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB)|<p align="center">[:clipboard:](https://www.perfect.org/docs/MongoDB.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-MongoDB-Demo)
+Apache CouchDB|[Perfect-CouchDB](https://github.com/PerfectlySoft/Perfect-CouchDB)|<p align="center">[:clipboard:](https://www.perfect.org/docs/CouchDB.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Session-CouchDB-Demo)
+Redis|[Perfect-Redis](https://github.com/PerfectlySoft/Perfect-Redis)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/Perfect-Redis)</p>|
+ODBC (*PLANNED) (Oracle/DB2/MSSQL)|
+
+**ORM Connectors**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+PostgresStORM|[Perfect-Turnstile-PostgreSQL](https://github.com/PerfectlySoft/Perfect-Turnstile-PostgreSQL)|<p align="center">[:clipboard:](https://www.perfect.org/docs/StORM-PostgreSQL.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-PostgreSQL-Demo)
+MySQLStORM|[Perfect-Turnstile-MySQL](https://github.com/PerfectlySoft/Perfect-Turnstile-MySQL)|<p align="center">[:clipboard:](https://www.perfect.org/docs/StORM-MySQL.html)</p>|[:paperclip:](https://github.com/PerfectExamples/MySQLStorm-Demo)
+SQLiteStORM|[Perfect-Turnstile-SQLite](https://github.com/PerfectlySoft/Perfect-Turnstile-SQLite)|<p align="center">[:clipboard:](https://www.perfect.org/docs/StORM-SQLite.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Turnstile-SQLite-Demo)
+CouchDBStORM|[Perfect-Turnstile-CouchDB](https://github.com/PerfectlySoft/Perfect-Turnstile-CouchDB)|<p align="center">[:clipboard:](https://www.perfect.org/docs/StORM-CouchDB.html)</p>|[:paperclip:](https://github.com/PerfectExamples/CouchDBStORM-Demo)
+
+**Big Data**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+GridFS (Through MongoDB)|[Perfect-MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB/blob/master/Sources/MongoDB/MongoGridFS.swift)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/PerfectDocs/blob/master/guide/MongoDB-GridFS.md)</p>|
+Hadoop: WebHDFS, MapReduce & Yarn|[Perfect-Hadoop](https://github.com/PerfectlySoft/Perfect-Hadoop)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/Perfect-Hadoop)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-HadoopStreaming-Demo)
+
+**Realtime Streaming**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+Kafka|[Perfect-Kafka](https://github.com/PerfectlySoft/Perfect-Kafka/)|<p align="center">[:clipboard:](https://github.com/PerfectlySoft/PerfectDocs/blob/master/guide/Kafka.md)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Kafka-Demo)
+
+**International Support**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+English|[PerfectDocs](https://github.com/PerfectlySoft/PerfectDocs)|<p align="center">[:clipboard:](http://www.perfect.org/docs/index.html)</p>
+Simplified Chinese|[PerfectDocs](https://github.com/PerfectlySoft/PerfectDocs/blob/master/README.zh_CN.md)|<p align="center">[:clipboard:](http://www.perfect.org/docs/index_zh_CN.html)</p>
+
+**Perfect Assistant**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+Project Start/Management|[Perfect-Assistant](https://www.perfect.org/en/assistant/)|<p align="center">[:clipboard:](https://www.perfect.org/en/assistant/)</p>
+XCode Integration|[Perfect-Assistant](https://www.perfect.org/en/assistant/)|<p align="center">[:clipboard:](https://www.perfect.org/en/assistant/)</p>
+Deployment to AWS|[Perfect-Assistant](https://www.perfect.org/en/assistant/)|<p align="center">[:clipboard:](https://www.perfect.org/en/assistant/)</p>
+Deployment to Google Cloud|[Perfect-Assistant](https://www.perfect.org/en/assistant/)|<p align="center">[:clipboard:](https://www.perfect.org/en/assistant/)</p>
+Dependency Management|[Perfect-Assistant](https://www.perfect.org/en/assistant/)|<p align="center">[:clipboard:](https://www.perfect.org/en/assistant/)</p>
+Pre-flight Testing|[Perfect-Assistant](https://www.perfect.org/en/assistant/)|<p align="center">[:clipboard:](https://www.perfect.org/en/assistant/)</p>
+
+**Additional Apps**
+
+Feature|Project|Docs|Examples
+--------|-----|--------------|-------|------------|----|--------|---
+|
+Remote Logging Server|[Perfect-Logger](https://github.com/PerfectlySoft/Perfect-Logger)|<p align="center">[:clipboard:](https://www.perfect.org/docs/logRemote.html)</p>|[:paperclip:](https://github.com/PerfectExamples/Perfect-Logging)
+Blog System|[Perfect-Blog-Mustache](https://github.com/PerfectExamples/Perfect-Blog-Mustache)||[:paperclip:](https://github.com/PerfectExamples/Perfect-Blog-Mustache)
